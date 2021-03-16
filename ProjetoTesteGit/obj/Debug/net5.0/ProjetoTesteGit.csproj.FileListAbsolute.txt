@@ -1,0 +1,16 @@
+C:\Users\mviniciusv\source\repos\ProjetoTesteGit\ProjetoTesteGit\bin\Debug\net5.0\ProjetoTesteGit.exe
+C:\Users\mviniciusv\source\repos\ProjetoTesteGit\ProjetoTesteGit\bin\Debug\net5.0\ProjetoTesteGit.deps.json
+C:\Users\mviniciusv\source\repos\ProjetoTesteGit\ProjetoTesteGit\bin\Debug\net5.0\ProjetoTesteGit.runtimeconfig.json
+C:\Users\mviniciusv\source\repos\ProjetoTesteGit\ProjetoTesteGit\bin\Debug\net5.0\ProjetoTesteGit.runtimeconfig.dev.json
+C:\Users\mviniciusv\source\repos\ProjetoTesteGit\ProjetoTesteGit\bin\Debug\net5.0\ProjetoTesteGit.dll
+C:\Users\mviniciusv\source\repos\ProjetoTesteGit\ProjetoTesteGit\bin\Debug\net5.0\ref\ProjetoTesteGit.dll
+C:\Users\mviniciusv\source\repos\ProjetoTesteGit\ProjetoTesteGit\bin\Debug\net5.0\ProjetoTesteGit.pdb
+C:\Users\mviniciusv\source\repos\ProjetoTesteGit\ProjetoTesteGit\obj\Debug\net5.0\ProjetoTesteGit.csprojAssemblyReference.cache
+C:\Users\mviniciusv\source\repos\ProjetoTesteGit\ProjetoTesteGit\obj\Debug\net5.0\ProjetoTesteGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mviniciusv\source\repos\ProjetoTesteGit\ProjetoTesteGit\obj\Debug\net5.0\ProjetoTesteGit.AssemblyInfoInputs.cache
+C:\Users\mviniciusv\source\repos\ProjetoTesteGit\ProjetoTesteGit\obj\Debug\net5.0\ProjetoTesteGit.AssemblyInfo.cs
+C:\Users\mviniciusv\source\repos\ProjetoTesteGit\ProjetoTesteGit\obj\Debug\net5.0\ProjetoTesteGit.csproj.CoreCompileInputs.cache
+C:\Users\mviniciusv\source\repos\ProjetoTesteGit\ProjetoTesteGit\obj\Debug\net5.0\ProjetoTesteGit.dll
+C:\Users\mviniciusv\source\repos\ProjetoTesteGit\ProjetoTesteGit\obj\Debug\net5.0\ref\ProjetoTesteGit.dll
+C:\Users\mviniciusv\source\repos\ProjetoTesteGit\ProjetoTesteGit\obj\Debug\net5.0\ProjetoTesteGit.pdb
+C:\Users\mviniciusv\source\repos\ProjetoTesteGit\ProjetoTesteGit\obj\Debug\net5.0\ProjetoTesteGit.genruntimeconfig.cache
