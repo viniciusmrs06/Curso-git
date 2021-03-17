@@ -7,8 +7,9 @@ namespace ProjetoTesteGit
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Boa tarde");
             Console.WriteLine("Como vc está hj? ");
+            Console.WriteLine("Tenha um bom dia");
+
             Console.ReadLine();
 
 
